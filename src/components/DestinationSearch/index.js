@@ -1,5 +1,5 @@
 /* eslint-disable react/no-unused-state */
-// Write your code here
+// Write your code here your
 import {Component} from 'react'
 import './index.css'
 import DestinationItem from '../DestinationItem'
